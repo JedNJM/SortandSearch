@@ -1,4 +1,3 @@
-ALGORITHM insertion_sort
 VAR
     arr : ARRAY_OF INTEGER [10];
     i,j,n,current:INTEGER;
